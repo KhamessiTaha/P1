@@ -1,0 +1,6 @@
+.list {
+	display: block;
+    color: blue;
+    display: flex;
+    position: relative
+}
